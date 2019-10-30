@@ -19,5 +19,5 @@ def func(n):
 	return s 
 
 if __name__ == "__main__":
-    pass100
-    
+	func(100)
+	pass
