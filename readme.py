@@ -18,4 +18,5 @@ def func(n):
 		s += i 
 	return s 
 
-	
+if __name__ == "__main__":
+    pass
