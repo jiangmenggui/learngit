@@ -19,6 +19,11 @@ def func(n):
 	return s 
 
 if __name__ == "__main__":
+<<<<<<< HEAD
 	func(100)
 	pass
 
+=======
+    func(100)
+    100
+>>>>>>> dev
