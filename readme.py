@@ -21,3 +21,4 @@ def func(n):
 if __name__ == "__main__":
 	func(100)
 	pass
+
